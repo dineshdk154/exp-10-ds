@@ -44,3 +44,52 @@ dd = pd.read_csv(io.BytesIO(uploaded['FlightInformation.csv']))
 
 
 print(dd)
+
+
+sns.barplot (x=dd['Duration'],y=dd['Price'])
+
+
+sns.barplot(x=dd["Arrival_Time"],y=dd["Price"],data=dd)
+
+
+states=dd.loc[:,["Duration","Price"]]
+
+
+states=states.groupby(by=["Duration"]).sum().sort_values(by="Price")
+
+
+sns.barplot(x=states.index,y="Price",data=states)
+
+
+plt.xticks(rotation = 90)
+
+
+plt.xlabel=("Duration")
+
+
+plt.ylabel=("Price")
+
+
+plt.show()
+
+
+dd.corr()
+
+
+data = np.random.randint(low = 1, high = 100, size = (10, 10))
+
+
+print("The data to be plotted:\n")
+
+
+print(data)
+
+
+hm = sns.heatmap(data = data)
+
+
+plt.show()
+
+# OUTPUT
+
+
