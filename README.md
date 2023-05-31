@@ -92,7 +92,10 @@ plt.show()
 
 # OUTPUT
 
-https://github.com/dineshdk154/exp-10-ds/blob/main/1.png?raw=true
+![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/49171d0d-5d2a-4aa5-843a-7e2999b40d08)
+ 
+ 
+ 
 
 
 
