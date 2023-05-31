@@ -92,6 +92,9 @@ plt.show()
 
 # OUTPUT
 
+https://github.com/dineshdk154/exp-10-ds/blob/main/1.png?raw=true
+
+
 
 
 
