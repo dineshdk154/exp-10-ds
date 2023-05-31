@@ -93,6 +93,10 @@ plt.show()
 # OUTPUT
 
 ![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/49171d0d-5d2a-4aa5-843a-7e2999b40d08)
+
+
+![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/fe5e7b28-28f8-4e62-8353-fb4ca85dc30f)
+
  
  
  
