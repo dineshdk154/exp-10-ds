@@ -106,6 +106,11 @@ plt.show()
 
 ![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/9129d8f0-50d7-46eb-9cb9-908a474153d3)
 
+# RESULT 
+
+
+Thus the data science process is applied on large data set and output is verified
+
 
 
 
