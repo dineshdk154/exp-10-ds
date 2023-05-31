@@ -101,6 +101,10 @@ plt.show()
 ![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/c8e77163-e257-47e2-938a-563f58f4ecce)
 
 
+![image](https://github.com/dineshdk154/exp-10-ds/assets/104413084/d4e3253d-bc09-439d-bebc-f878d1a9b8bf)
+
+
+
 
 
  
