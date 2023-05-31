@@ -92,6 +92,6 @@ plt.show()
 
 # OUTPUT
 
-file:///C:/Users/dines/OneDrive/Pictures/New%20folder%20(2)/1.png
+
 
 
